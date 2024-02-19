@@ -6,9 +6,9 @@
 package rbxapijson
 
 import (
-	"github.com/robloxapi/rbxapi"
+	"github.com/karl-police/rbxapi"
 )
-
+e
 // Root represents the top-level structure of an API.
 type Root struct {
 	Classes []*Class
