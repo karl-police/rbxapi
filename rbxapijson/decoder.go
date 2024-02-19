@@ -29,7 +29,7 @@ func (root *Root) UnmarshalJSON(b []byte) (err error) {
 	if err := json.Unmarshal(b, &v); err != nil {
 		return err
 	}
-	fmt.Println("Hello")
+	fmt.Println("Hello")e
 	switch v.Version {
 	case 1:
 		r := struct {
