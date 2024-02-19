@@ -3,9 +3,9 @@
 package rbxapijson
 
 import (
-	"github.com/robloxapi/rbxapi"
-	"github.com/robloxapi/rbxapi/diff"
-	"github.com/robloxapi/rbxapi/patch"
+	"github.com/karl-police/rbxapi"
+	"github.com/karl-police/rbxapi/diff"
+	"github.com/karl-police/rbxapi/patch"
 )
 
 // compareAndCopyTags compares two string slices, and return copies if they

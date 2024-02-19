@@ -1,8 +1,8 @@
 package rbxapidump
 
 import (
-	"github.com/robloxapi/rbxapi"
-	"github.com/robloxapi/rbxapi/patch"
+	"github.com/karl-police/rbxapi"
+	"github.com/karl-police/rbxapi/patch"
 )
 
 // copyClass returns a deep copy of a generic rbxapi.Class.

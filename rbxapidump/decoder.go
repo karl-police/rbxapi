@@ -3,7 +3,7 @@ package rbxapidump
 import (
 	"bufio"
 	"bytes"
-	"github.com/robloxapi/rbxapi"
+	"github.com/karl-police/rbxapi"
 	"io"
 	"strconv"
 )

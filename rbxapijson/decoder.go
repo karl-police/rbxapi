@@ -3,7 +3,7 @@ package rbxapijson
 import (
 	"encoding/json"
 	"errors"
-	"github.com/robloxapi/rbxapi"
+	"github.com/karl-police/rbxapi"
 	"io"
 	"strconv"
 )

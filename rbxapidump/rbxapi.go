@@ -6,7 +6,7 @@
 package rbxapidump
 
 import (
-	"github.com/robloxapi/rbxapi"
+	"github.com/karl-police/rbxapi"
 	"strings"
 )
 

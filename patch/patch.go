@@ -9,7 +9,7 @@
 package patch
 
 import (
-	"github.com/robloxapi/rbxapi"
+	"github.com/karl-police/rbxapi"
 )
 
 // Differ is implemented by any value that has a Diff method, which returns
